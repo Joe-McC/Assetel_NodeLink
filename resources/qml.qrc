@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UI.qml</file>
+        <file>icons/bug.svg</file>
+        <file>icons/close.svg</file>
+        <file>icons/update.svg</file>
+        <file>icons/website.svg</file>
+        <file>icons/icon.png</file>
+        <file>ProjectViewer.qml</file>
+        <file>Node.qml</file>
+        <file>NodeTreeView.qml</file>
+        <file>TreeView.qml</file>
+        <file>TreeViewItem.qml</file>
+        <file>icons/checkmark_black.png</file>
+        <file>CreateNodeDialog.qml</file>
+        <file>DrawingPane.qml</file>
+        <file>Connector.qml</file>
+    </qresource>
+</RCC>
