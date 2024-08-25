@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<<<<<<< HEAD
 <!-- Written by QtCreator 12.0.1, 2024-08-25T15:49:39. -->
-=======
-<!-- Written by QtCreator 12.0.1, 2024-07-24T21:43:53. -->
->>>>>>> master
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -98,11 +94,7 @@
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt6.641.win64_mingw_kit</value>
    <value type="qlonglong" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
    <value type="qlonglong" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
-<<<<<<< HEAD
    <value type="qlonglong" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
-=======
-   <value type="qlonglong" key="ProjectExplorer.Target.ActiveRunConfiguration">3</value>
->>>>>>> master
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
     <value type="QString" key="CMake.Build.Type">Debug</value>
     <value type="int" key="CMake.Configure.BaseEnvironment">2</value>
@@ -116,12 +108,8 @@
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
 -DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}</value>
-<<<<<<< HEAD
     <value type="int" key="EnableQmlDebugging">0</value>
     <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\mccoo\OneDrive\Documents\build-assetel-Desktop_Qt_6_4_1_MinGW_64_bit-Debug</value>
-=======
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\mccoo\OneDrive\Documents\dev\build-Assetel_NodeLink-Desktop_Qt_6_4_1_MinGW_64_bit-Debug</value>
->>>>>>> master
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="QString" key="CMakeProjectManager.MakeStep.BuildPreset"></value>
@@ -177,11 +165,7 @@
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
 -DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}</value>
-<<<<<<< HEAD
     <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\mccoo\OneDrive\Documents\build-assetel-Desktop_Qt_6_4_1_MinGW_64_bit-Release</value>
-=======
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\mccoo\OneDrive\Documents\dev\build-Assetel_NodeLink-Desktop_Qt_6_4_1_MinGW_64_bit-Release</value>
->>>>>>> master
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="QString" key="CMakeProjectManager.MakeStep.BuildPreset"></value>
@@ -235,11 +219,7 @@
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
 -DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}</value>
-<<<<<<< HEAD
     <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\mccoo\OneDrive\Documents\build-assetel-Desktop_Qt_6_4_1_MinGW_64_bit-RelWithDebInfo</value>
-=======
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\mccoo\OneDrive\Documents\dev\build-Assetel_NodeLink-Desktop_Qt_6_4_1_MinGW_64_bit-RelWithDebInfo</value>
->>>>>>> master
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="QString" key="CMakeProjectManager.MakeStep.BuildPreset"></value>
@@ -294,11 +274,7 @@
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
 -DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}</value>
     <value type="int" key="EnableQmlDebugging">0</value>
-<<<<<<< HEAD
     <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\mccoo\OneDrive\Documents\build-assetel-Desktop_Qt_6_4_1_MinGW_64_bit-Profile</value>
-=======
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\mccoo\OneDrive\Documents\dev\build-Assetel_NodeLink-Desktop_Qt_6_4_1_MinGW_64_bit-Profile</value>
->>>>>>> master
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="QString" key="CMakeProjectManager.MakeStep.BuildPreset"></value>
@@ -352,11 +328,7 @@
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
 -DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}</value>
-<<<<<<< HEAD
     <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\mccoo\OneDrive\Documents\build-assetel-Desktop_Qt_6_4_1_MinGW_64_bit-MinSizeRel</value>
-=======
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\mccoo\OneDrive\Documents\dev\build-Assetel_NodeLink-Desktop_Qt_6_4_1_MinGW_64_bit-MinSizeRel</value>
->>>>>>> master
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="QString" key="CMakeProjectManager.MakeStep.BuildPreset"></value>
@@ -420,24 +392,14 @@
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="bool" key="PE.EnvironmentAspect.PrintOnRun">false</value>
-<<<<<<< HEAD
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">appassetel</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.appassetel</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">appassetel</value>
-=======
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Calculator</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.Calculator</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">Calculator</value>
->>>>>>> master
     <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-<<<<<<< HEAD
     <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/mccoo/OneDrive/Documents/build-assetel-Desktop_Qt_6_4_1_MinGW_64_bit-Debug</value>
-=======
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/mccoo/OneDrive/Documents/dev/build-Assetel_NodeLink-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/NodeLink/examples/calculator</value>
->>>>>>> master
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.1">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -448,63 +410,6 @@
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="bool" key="PE.EnvironmentAspect.PrintOnRun">false</value>
-<<<<<<< HEAD
-=======
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">SimpleNodeLink</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.SimpleNodeLink</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">SimpleNodeLink</value>
-    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
-    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
-    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
-    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/mccoo/OneDrive/Documents/dev/build-Assetel_NodeLink-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/NodeLink/examples/simpleNodeLink</value>
-   </valuemap>
-   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.2">
-    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
-    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
-    <value type="int" key="Analyzer.Valgrind.Callgrind.CostFormat">0</value>
-    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
-    <valuelist type="QVariantList" key="CustomOutputParsers"/>
-    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
-    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="bool" key="PE.EnvironmentAspect.PrintOnRun">false</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">assetel</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.assetel</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">assetel</value>
-    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
-    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
-    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
-    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/mccoo/OneDrive/Documents/dev/build-Assetel_NodeLink-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/NodeLink/examples/assetel</value>
-   </valuemap>
-   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.3">
-    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
-    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
-    <value type="int" key="Analyzer.Valgrind.Callgrind.CostFormat">0</value>
-    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
-    <valuelist type="QVariantList" key="CustomOutputParsers"/>
-    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
-    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="bool" key="PE.EnvironmentAspect.PrintOnRun">false</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">gui</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.gui</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">gui</value>
-    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
-    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
-    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
-    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/mccoo/OneDrive/Documents/dev/build-Assetel_NodeLink-Desktop_Qt_6_4_1_MinGW_64_bit-Debug</value>
-   </valuemap>
-   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.4">
-    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
-    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
-    <value type="int" key="Analyzer.Valgrind.Callgrind.CostFormat">0</value>
-    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
-    <valuelist type="QVariantList" key="CustomOutputParsers"/>
-    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
-    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="bool" key="PE.EnvironmentAspect.PrintOnRun">false</value>
->>>>>>> master
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">simpleQQS</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.simpleQQS</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">simpleQQS</value>
@@ -512,7 +417,6 @@
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-<<<<<<< HEAD
     <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/mccoo/OneDrive/Documents/build-assetel-Desktop_Qt_6_4_1_MinGW_64_bit-Debug</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">2</value>
@@ -824,20 +728,11 @@
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
-=======
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/mccoo/OneDrive/Documents/dev/build-Assetel_NodeLink-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/NodeLink/QtQuickStream/examples/simpleQQS</value>
-   </valuemap>
-   <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">5</value>
->>>>>>> master
   </valuemap>
  </data>
  <data>
   <variable>ProjectExplorer.Project.TargetCount</variable>
-<<<<<<< HEAD
   <value type="qlonglong">2</value>
-=======
-  <value type="qlonglong">1</value>
->>>>>>> master
  </data>
  <data>
   <variable>ProjectExplorer.Project.Updater.FileVersion</variable>
