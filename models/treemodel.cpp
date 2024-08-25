@@ -229,10 +229,10 @@ void TreeModel::handleClearNodes()
     _nodeList.clear();
 }*/
 
-void TreeModel::handleNodeAdded(QString nodeID)
+void TreeModel::handleNodeAdded(QString nodeID, QString nodeTitle)
 {
     std::cout << "TreeModel::handleNodeAdded : " << nodeID.toStdString() << std::endl;
-    auto topLevelItem = std::make_shared<TreeItem>(QString::fromStdString(nodeID.toStdString()));
+    auto topLevelItem = std::make_shared<TreeItem>(QString::fromStdString(nodeTitle.toStdString()));
 
 
 

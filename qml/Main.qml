@@ -145,11 +145,11 @@ Window {
             Layout.fillWidth: true
             Layout.fillHeight: true
 
-            onNodeAdded: (nodeUuid) => {
+            onNodeAdded: (nodeUuid, nodeTitle) => {
                 // Handle the nodeAdded signal here
                 console.log("Node added:", nodeUuid);
                 // Add any additional logic you need to handle the added node
-                treeModel.handleNodeAdded(nodeUuid);
+                treeModel.handleNodeAdded(nodeUuid, nodeTitle);
             }
 
         }

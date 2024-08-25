@@ -52,7 +52,7 @@ public slots:
    //void handleChildNodeAdded(const int &nodeId, const std::string &nodeTitle, const int &parentNodeId);
    //void handleClearNodes();
 
-   void handleNodeAdded (QString nodeID);
+   void handleNodeAdded (QString nodeID, QString nodeTitle);
 
 private:
    //TreeItem* internalPointer(const QModelIndex& index) const;
