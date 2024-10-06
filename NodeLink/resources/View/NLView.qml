@@ -239,4 +239,22 @@ Item {
         })
     }
 
+    //signal nodeAdded(string nodeUuid, string nodeTitle)
+
+    // Declare a custom handler function or slot for handling the signal
+    function handleNodeAdded(nodeUuid, nodeTitle) {
+        console.log("Node added from NodesOverview:", nodeUuid, nodeTitle);
+        // Add any additional logic, such as modifying your TreeModel
+        nodeAdded(nodeUuid, nodeTitle);
+        treeModel.handleNodeAdded(nodeUuid, nodeTitle);
+    }
+
+    // handle Node Added connections from NodeOverview
+    Connections {
+        target: overView
+        onNodeAddedFromOverview: {
+            view.handleNodeAdded(nodeUuid, nodeTitle);
+        }
+    }
+
 }

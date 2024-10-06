@@ -57,7 +57,6 @@ Item {
     //! Whether background border should be visible or not
     property  bool        backgroundBorderVisibility: true
 
-
     /* Object Properties
     * ****************************************************************************************/
 
@@ -165,5 +164,23 @@ Item {
                                                    endingPointInSceneY - startingPointInSceneY));
 
         }
+
+        /*signal nodeAddedFromOverview(string nodeUuid, string nodeTitle)
+
+        // Declare a custom handler function or slot for handling the signal
+        function handleNodeAdded(nodeUuid, nodeTitle) {
+            console.log("Node added from NodesOverview:", nodeUuid, nodeTitle);
+            // Add any additional logic, such as modifying your TreeModel
+            nodeAddedFromOverview(nodeUuid, nodeTitle);
+        }
+
+        // handle Node Added connections from NodeOverview
+        Connections {
+            target: scene
+            onNodeAddedFromIScene: {
+                handleNodeAdded(nodeUuid, nodeTitle);
+            }
+        }*/
+
     }
 }

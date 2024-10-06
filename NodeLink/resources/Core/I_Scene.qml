@@ -4,6 +4,8 @@ import QtQuick.Controls
 import NodeLink
 import QtQuickStream
 
+import assetel
+
 /*! ***********************************************************************************************
  * The Scene is responsible for managing nodes and links between them.
  *
@@ -132,6 +134,11 @@ QSObject {
         return false;
     }
 
+
+    // When a node is create, send signal to NodesOverview which in turn sends a signal to top-level NLView.
+    // In main.qml, this can then use the node tile and uid to update the treemodel.
+    //signal nodeAddedFromIScene(string nodeUuid, string nodeTitle)
+
     //! Adds a node the to nodes map
     function addNode(node: Node) {
         //Sanity check
@@ -145,6 +152,9 @@ QSObject {
 
         scene.selectionModel.clear();
         scene.selectionModel.selectNode(node);
+
+        treeModel.handleNodeAdded(node._qsUuid, node.title);
+        //nodeAddedFromIScene(node._qsUuid, node.title)
 
         return node;
     }
